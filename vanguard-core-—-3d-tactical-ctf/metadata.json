@@ -1,6 +1,0 @@
-{
-  "name": "Vanguard Core — 3D Tactical CTF",
-  "description": "Real-time 3D sci-fi Capture the Flag FPS arena game with Red vs Blue teams, multiplayer rooms, AI bot backfill, and weapon armory upgrades.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
